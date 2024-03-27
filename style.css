@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Antic&display=swap');
+
+
+body{ 
+    background-color: beige;
+    font-family: "Antic", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: rgb(228, 228, 173); 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+}
+header img{ 
+    width: 90px;
+
+
+}
+.search {
+    height: 20px;
+    margin: 5px;
+    padding: 5px;
+    width: 150px;
+    border-radius: 15px;
+}
+main {
+margin: 0 2rem ;
+}
+.pure { 
+    text-align: center;
+}
+.img-pure {
+    width: 100%;
+}
